@@ -1,0 +1,2546 @@
+movie_id,title_clean,id
+1,toy story,862
+2,jumanji,8844
+3,grumpier old men,15602
+4,waiting to exhale,31357
+5,father of the bride part ii,11862
+6,heat,949
+7,sabrina,11860
+8,tom and huck,45325
+9,sudden death,9091
+10,goldeneye,710
+12,dracula: dead and loving it,12110
+13,balto,21032
+14,nixon,10858
+15,cutthroat island,1408
+16,casino,524
+17,sense and sensibility,4584
+18,four rooms,5
+19,ace ventura: when nature calls,9273
+20,money train,11517
+21,get shorty,8012
+22,copycat,1710
+23,assassins,9691
+24,powder,12665
+25,leaving las vegas,451
+26,othello,16420
+27,now and then,9263
+28,persuasion,17015
+31,dangerous minds,9909
+32,twelve monkeys,63
+33,wings of courage,78802
+34,babe,9598
+35,carrington,47018
+36,dead man walking,687
+37,across the sea of time,139405
+38,it takes two,33689
+39,clueless,9603
+40,"cry, the beloved country",34615
+41,richard iii,31174
+42,dead presidents,11443
+43,restoration,35196
+44,mortal kombat,9312
+45,to die for,577
+46,how to make an american quilt,11861
+48,pocahontas,10530
+49,when night is falling,8391
+51,guardian angel,117164
+52,mighty aphrodite,11448
+53,lamerica,49133
+55,georgia,97406
+56,kids of the round table,124057
+57,home for the holidays,9089
+61,eye for an eye,17182
+62,mr. holland's opus,2054
+63,don't be a menace to south central while drinking your juice in the hood,10607
+64,two if by sea,19760
+65,bio-dome,9536
+66,lawnmower man 2: beyond cyberspace,11525
+67,two bits,40628
+69,friday,10634
+70,from dusk till dawn,755
+71,fair game,11859
+72,kicking and screaming,28387
+74,bed of roses,20927
+75,big bully,36929
+76,screamers,9102
+77,nico icon,124626
+81,things to do in denver when you're dead,400
+83,once upon a time... when we were colored,146599
+84,last summer in the hamptons,188588
+85,angels and insects,8447
+86,white squall,10534
+87,dunston checks in,17414
+88,black sheep,13997
+89,nick of time,2086
+92,mary reilly,9095
+93,vampire in brooklyn,12158
+94,beautiful girls,9283
+95,broken arrow,9208
+98,shopping,45549
+99,heidi fleiss: hollywood madam,63076
+100,city hall,11062
+101,bottle rocket,13685
+102,mr. wrong,47475
+103,unforgettable,2045
+104,happy gilmore,9614
+107,muppet treasure island,10874
+108,catwalk,89333
+109,headless body in topless bar,96357
+110,braveheart,197
+111,taxi driver,103
+112,rumble in the bronx,33542
+113,before and after,43566
+114,margaret's museum,71754
+115,happiness is in the field,43612
+116,anne frank remembered,51352
+118,if lucy fell,10324
+120,race the sun,55731
+122,boomerang,11066
+123,chungking express,11104
+125,flirting with disaster,2074
+128,jupiter's wife,290157
+129,pie in the sky,110972
+130,angela,32622
+131,frankie starlight,73067
+132,jade,11863
+133,nueba yol,55475
+134,sonic outlaws,124636
+135,down periscope,9101
+136,from the journals of jean seberg,123360
+137,man of the year,5757
+139,target,124639
+145,bad boys,9737
+149,amateur,30157
+150,apollo 13,568
+151,rob roy,11780
+153,batman forever,414
+154,belle de jour,649
+155,beyond rangoon,1873
+156,blue in the face,5894
+157,canadian bacon,1775
+158,casper,8839
+159,clockers,20649
+160,congo,10329
+161,crimson tide,8963
+162,crumb,26564
+163,desperado,8068
+164,devil in a blue dress,8512
+165,die hard: with a vengeance,1572
+167,feast of july,259209
+168,first knight,6520
+170,hackers,10428
+171,jeffrey,17447
+172,johnny mnemonic,9886
+173,judge dredd,9482
+174,jury duty,19326
+175,kids,9344
+176,living in oblivion,9071
+177,lord of illusions,8973
+178,love & human remains,15730
+179,mad love,47608
+180,mallrats,2293
+181,mighty morphin power rangers: the movie,9070
+182,moonlight and valentino,68274
+183,mute witness,48787
+184,nadja,34574
+186,nine months,11472
+187,party girl,36196
+189,reckless,58372
+190,safe,32646
+193,showgirls,10802
+194,smoke,10149
+195,something to talk about,18402
+196,species,9348
+198,strange days,281
+201,three wishes,47939
+202,total eclipse,36834
+203,"to wong foo, thanks for everything! julie newmar",9090
+204,under siege 2: dark territory,3512
+205,unstrung heroes,52856
+206,unzipped,77350
+208,waterworld,9804
+209,white man's burden,31611
+210,wild bill,65796
+212,bushwhacked,26258
+215,before sunrise,76
+216,billy madison,11017
+218,boys on the side,9382
+220,castle freak,18256
+222,circle of friends,22625
+223,clerks,2292
+224,don juan demarco,1909
+225,disclosure,8984
+227,drop zone,4954
+229,death and the maiden,10531
+230,dolores claiborne,11929
+232,eat drink man woman,10451
+233,exotica,20156
+234,exit to eden,18395
+235,ed wood,522
+236,french kiss,397
+237,forget paris,10525
+238,far from home: the adventures of yellow dog,27985
+240,hideaway,27303
+241,fluke,21183
+243,gordy,47867
+244,gumby: the movie,43475
+246,hoop dreams,14275
+247,heavenly creatures,1024
+248,houseguest,17207
+249,immortal beloved,13701
+250,heavyweights,14819
+252,i.q.,11777
+253,interview with the vampire,628
+254,jefferson in paris,87729
+256,junior,6280
+257,just cause,9061
+259,kiss of death,6071
+261,little women,9587
+263,ladybird ladybird,49980
+266,legends of the fall,4476
+267,major payne,11008
+268,little odessa,47504
+270,love affair,43742
+271,losing isaiah,28313
+273,mary shelley's frankenstein,3036
+274,man of the house,40490
+275,mixed nuts,24070
+276,milk money,8986
+277,miracle on 34th street,10510
+278,miami rhapsody,17402
+279,my family,38722
+280,murder in the first,8438
+281,nobody's fool,11593
+282,nell,1945
+283,new jersey drive,39310
+284,new york cop,109560
+285,beyond bedlam,56428
+287,nina takes a lover,131957
+288,natural born killers,241
+289,only you,9058
+290,once were warriors,527
+292,outbreak,6950
+296,pulp fiction,680
+297,panther,41478
+298,pushing hands,25296
+299,priest,40156
+300,quiz show,11450
+301,picture bride,30304
+304,roommates,161495
+306,three colors: red,110
+307,three colors: blue,108
+308,three colors: white,109
+309,"red firecracker, green firecracker",159185
+310,rent-a-kid,36357
+311,relative fear,92769
+312,stuart saves his family,28033
+316,stargate,2164
+319,shallow grave,9905
+320,suture,87078
+322,swimming with sharks,20306
+327,tank girl,9067
+329,star trek: generations,193
+330,tales from the hood,25066
+331,tom & viv,46797
+332,village of the damned,12122
+333,tommy boy,11381
+334,vanya on 42nd street,32636
+337,what's eating gilbert grape,1587
+338,virtuosity,9271
+339,while you were sleeping,2064
+341,double happiness,60855
+342,muriel's wedding,236
+344,ace ventura: pet detective,3049
+346,backbeat,12635
+347,bitter moon,10497
+348,bullets over broadway,11382
+349,clear and present danger,9331
+351,"corrina, corrina",10464
+352,crooklyn,34152
+354,cobb,29973
+356,forrest gump,13
+357,four weddings and a funeral,712
+358,higher learning,16295
+359,i like it like that,48992
+360,i love trouble,10879
+361,it could happen to you,10660
+365,little buddha,1689
+368,maverick,9359
+369,mrs. parker and the vicious circle,23333
+372,reality bites,2788
+373,red rock west,10427
+375,safe passage,49803
+377,speed,1637
+378,speechless,15128
+379,timecop,8831
+380,true lies,36955
+381,when a man loves a woman,10449
+382,wolf,10395
+383,wyatt earp,12160
+384,bad company,40480
+386,s.f.w.,29444
+391,jason's lyric,22067
+393,street fighter,11667
+394,coldblooded,32502
+395,desert winds,267188
+396,fall time,28732
+398,frank and ollie,42981
+399,girl in the cadillac,278939
+400,homage,291731
+401,mirage,226229
+402,open season,203119
+404,brother minister: the assassination of malcolm x,316098
+406,federal hill,171857
+407,in the mouth of madness,2654
+408,8 seconds,18069
+409,above the rim,19092
+410,addams family values,2758
+413,airheads,13595
+415,another stakeout,9409
+416,bad girls,11853
+417,barcelona,16771
+418,being human,46924
+420,beverly hills cop iii,306
+421,black beauty,14522
+422,blink,26203
+423,blown away,178
+424,blue chips,19819
+425,blue sky,57834
+426,body snatchers,4722
+427,boxing helena,18215
+429,cabin boy,26391
+430,calendar girl,117553
+431,carlito's way,6075
+432,city slickers ii: the legend of curly's gold,11310
+433,clean slate,18658
+434,cliffhanger,9350
+435,coneheads,9612
+436,color of night,2124
+439,dangerous game,49299
+440,dave,11566
+441,dazed and confused,9571
+442,demolition man,9739
+444,even cowgirls get the blues,34444
+445,fatal instinct,26141
+446,farewell my concubine,10997
+448,fearless,10443
+449,fear of a black hat,20239
+450,with honors,16297
+451,flesh and bone,18551
+452,widows' peak,25440
+453,for love or money,9024
+455,free willy,1634
+456,fresh,13815
+458,geronimo: an american legend,35588
+460,getting even with dad,41579
+461,go fish,18620
+463,guilty as sin,4916
+464,hard target,2019
+465,heaven & earth,31642
+466,hot shots! part deux,9255
+467,live nude girls,26271
+470,house party 3,16097
+472,i'll do anything,106143
+473,in the army now,12475
+474,in the line of fire,9386
+475,in the name of the father,7984
+478,jimmy hollywood,31643
+479,judgment night,6
+480,jurassic park,329
+481,kalifornia,10909
+482,killing zoe,507
+483,king of the hill,34024
+484,lassie,29918
+485,last action hero,9593
+486,life with mikey,42580
+487,lightning jack,22317
+488,m. butterfly,1413
+489,made in america,12121
+490,malice,2246
+492,manhattan murder mystery,10440
+493,menace ii society,9516
+494,executive decision,2320
+496,what happened was...,83718
+497,much ado about nothing,11971
+498,mr. jones,2625
+499,mr. wonderful,31911
+500,mrs. doubtfire,788
+501,naked,21450
+504,no escape,10447
+505,north,31586
+506,orlando,9300
+508,philadelphia,9800
+510,poetic justice,8291
+513,radioland murders,22588
+516,renaissance man,11858
+517,rising sun,7007
+519,robocop 3,5550
+520,robin hood: men in tights,8005
+521,romeo is bleeding,2088
+522,romper stomper,10412
+523,ruby in paradise,47889
+524,rudy,14534
+527,schindler's list,424
+529,searching for bobby fischer,14291
+530,second best,103413
+532,serial mom,11592
+534,shadowlands,10445
+535,short cuts,695
+537,sirens,12519
+538,six degrees of separation,23210
+539,sleepless in seattle,858
+540,sliver,867
+541,blade runner,78
+542,son in law,13203
+543,so i married an axe murderer,10442
+544,striking distance,11074
+546,super mario bros.,9607
+547,surviving the game,17585
+548,terminal velocity,9057
+550,threesome,10635
+553,tombstone,11969
+554,trial by jury,41590
+555,true romance,319
+557,mamma roma,47796
+559,"paris, france",161158
+562,welcome to the dollhouse,11446
+563,germinal,51980
+564,chasers,24405
+565,cronos,11655
+566,naked in new york,11800
+567,kika,8223
+568,bhaji on the beach,14587
+569,little big league,31504
+572,foreign student,95743
+574,spanking the monkey,17600
+577,andre,21352
+580,princess caraboo,37345
+586,home alone,771
+587,ghost,251
+588,aladdin,812
+589,terminator 2: judgment day,280
+590,dances with wolves,581
+591,tough and deadly,80350
+592,batman,268
+594,snow white and the seven dwarfs,408
+595,beauty and the beast,10020
+596,pinocchio,10895
+597,pretty woman,114
+598,window to paris,41043
+600,love and a .45,15477
+605,one fine day,7300
+606,candyman: farewell to the flesh,10824
+607,century,261246
+608,fargo,275
+609,homeward bound ii: lost in san francisco,25059
+610,heavy metal,11827
+611,hellraiser: bloodline,8766
+613,jane eyre,47333
+614,loaded,54850
+618,two much,46029
+619,ed,32308
+621,my favorite season,52873
+624,condition red,340210
+628,primal fear,1592
+629,rude,166901
+630,carried away,36447
+631,all dogs go to heaven 2,19042
+633,denise calls up,47449
+634,theodore rex,36259
+636,frisk,40926
+637,sgt. bilko,9099
+639,girl 6,61752
+640,diabolique,10988
+642,roula,398959
+647,courage under fire,10684
+648,mission: impossible,954
+650,moll flanders,18989
+652,"301, 302",54285
+653,dragonheart,8840
+656,eddie,11107
+657,yankee zulu,16417
+658,billy's holiday,70934
+659,purple noon,10363
+660,august,161070
+661,james and the giant peach,10539
+662,fear,10543
+663,kids in the hall: brain candy,18414
+664,faithful,47502
+665,underground,11902
+666,all things fair,27098
+668,pather panchali,5801
+669,aparajito,897
+671,mystery science theater 3000: the movie,3065
+672,tarantella,318177
+673,space jam,2300
+674,barbarella,8069
+675,hostile intentions,288173
+676,they bite,187851
+680,alphaville,8072
+682,tigrero: a film that was never made,88030
+684,windows,83857
+685,it's my party,33245
+687,country life,124460
+688,operation dumbo drop,27281
+691,mrs. winterbourne,40001
+692,solo,29621
+695,true crime,37144
+696,butterfly kiss,65679
+697,feeling minnesota,12656
+698,delta of venus,38867
+700,angus,25969
+702,faces,753
+703,boys,43634
+705,cosi,90214
+706,sunset park,29649
+707,mulholland falls,10990
+709,oliver & company,12233
+710,celtic pride,23449
+711,flipper,36355
+712,captives,37667
+713,of love and shadows,90148
+714,dead man,922
+716,switchblade sisters,52633
+719,multiplicity,9304
+723,two friends,131232
+726,last dance,46063
+728,cold comfort farm,32513
+729,"institute benjamenta, or this dream people call human life",40651
+731,heaven's prisoners,36915
+732,original gangstas,40507
+734,getting away with murder,25697
+736,twister,664
+737,barb wire,11867
+742,thinner,10280
+743,spy hard,10535
+744,brothers in trouble,124613
+746,force of evil,26744
+750,dr. strangelove or: how i learned to stop worrying and love the bomb,935
+751,careful,55613
+752,vermont is for lovers,215107
+754,gold diggers: the secret of bear mountain,35645
+755,kim,110465
+756,carmen miranda: bananas is my business,255546
+757,ashes of time,40751
+759,maya lin: a strong clear vision,85778
+760,stalingrad,11101
+762,striptease,9879
+764,heavy,22621
+765,jack,7095
+766,i shot andy warhol,26890
+768,someone else's america,124633
+772,quartier mozart,196940
+776,babyfever,188589
+778,trainspotting,627
+781,stealing beauty,14553
+785,kingpin,11543
+786,eraser,9268
+790,an unforgettable summer,81949
+795,somebody to love,44535
+798,daylight,11228
+800,lone star,26748
+801,harriet the spy,38223
+802,phenomenon,9294
+803,walking and talking,49963
+804,she's the one,11363
+806,american buffalo,31546
+808,alaska,36344
+809,fled,18550
+810,kazaam,11511
+812,magic hunter,172198
+813,larger than life,34170
+815,power 98,109478
+816,two deaths,124645
+819,stefano quantestorie,69895
+822,hedd wyn,151489
+824,kaspar hauser,12632
+829,joe's apartment,11962
+831,stonewall,28628
+832,ransom,3595
+833,high school high,9308
+834,phat beach,92381
+835,foxfire,18555
+836,chain reaction,12123
+837,matilda,10830
+838,emma,3573
+840,house arrest,18862
+841,eyes without a face,31417
+843,lotto land,124619
+846,flirt,46986
+849,escape from l.a.,10061
+850,cyclo,36266
+851,basquiat,549
+852,tin cup,10478
+853,dingo,66634
+855,every other weekend,213917
+857,crows and sparrows,100914
+862,manny & lo,88224
+865,small faces,42758
+866,bound,9303
+867,carpool,23945
+868,death in brunswick,37820
+869,kansas city,22479
+870,gone fishin',9054
+871,lover's knot,241058
+874,killer: a journal of murder,59569
+875,nothing to lose,11676
+877,girls town,110513
+878,bye-bye,114089
+881,first kid,12559
+884,sweet nothing,124851
+885,bogus,3587
+886,bulletproof,10723
+887,talk of angels,56077
+891,halloween: the curse of michael myers,10987
+892,twelfth night,44705
+893,mother night,20318
+894,liebelei,43596
+896,wild reeds,26933
+897,for whom the bell tolls,27854
+899,singin' in the rain,872
+901,funny face,13320
+902,breakfast at tiffany's,164
+903,vertigo,426
+904,rear window,567
+905,it happened one night,3078
+906,gaslight,13528
+908,north by northwest,213
+910,some like it hot,239
+911,charade,4808
+912,casablanca,289
+914,my fair lady,11113
+915,sabrina,11860
+916,roman holiday,804
+918,meet me in st. louis,909
+920,gone with the wind,770
+921,my favorite year,31044
+923,citizen kane,15
+924,2001: a space odyssey,62
+925,golden earrings,121357
+926,all about eve,705
+928,rebecca,223
+929,foreign correspondent,25670
+930,notorious,303
+931,spellbound,4174
+933,to catch a thief,381
+934,father of the bride,20758
+936,ninotchka,1859
+937,love in the afternoon,18299
+938,gigi,17281
+942,laura,1939
+944,lost horizon,3598
+945,top hat,3080
+946,to be or not to be,198
+947,my man godfrey,13562
+948,giant,1712
+949,east of eden,220
+951,his girl friday,3085
+952,around the world in 80 days,10204
+953,it's a wonderful life,1585
+954,mr. smith goes to washington,3083
+955,bringing up baby,900
+956,penny serenade,43795
+958,lady of burlesque,50001
+959,of human bondage,43905
+960,angel on my shoulder,22688
+961,little lord fauntleroy,23114
+962,they made me a criminal,26378
+964,angel and the badman,22356
+968,night of the living dead,10331
+970,beat the devil,22733
+971,cat on a hot tin roof,261
+973,meet john doe,32574
+974,algiers,22657
+975,something to sing about,76464
+977,moonlight murder,176841
+979,nothing personal,125587
+981,dangerous ground,52855
+982,picnic,39940
+983,madagascar skin,172868
+985,small wonders,124632
+986,fly away home,11076
+987,bliss,63945
+988,grace of my heart,58985
+990,maximum risk,10861
+991,michael collins,1770
+993,infinity,2033
+994,big night,18203
+996,last man standing,9333
+997,caught,47260
+998,set it off,9400
+999,2 days in the valley,9401
+1000,curdled,12241
+1002,ed's next move,161806
+1003,extreme measures,11306
+1005,d3: the mighty ducks,10680
+1008,"davy crockett, king of the wild frontier",35115
+1009,escape to witch mountain,14821
+1011,herbie rides again,10869
+1012,old yeller,22660
+1014,pollyanna,31102
+1015,homeward bound: the incredible journey,6878
+1017,swiss family robinson,18444
+1018,that darn cat!,20723
+1019,"20,000 leagues under the sea",173
+1020,cool runnings,864
+1021,angels in the outfield,24795
+1022,cinderella,11224
+1026,so dear to my heart,29682
+1027,robin hood: prince of thieves,8367
+1028,mary poppins,433
+1029,dumbo,11360
+1030,pete's dragon,11114
+1031,bedknobs and broomsticks,12335
+1032,alice in wonderland,12092
+1034,freeway,11229
+1036,die hard,562
+1038,unhook the stars,48862
+1039,synthetic pleasures,117036
+1041,secrets & lies,11159
+1042,that thing you do!,9591
+1043,to gillian on her 37th birthday,30500
+1044,surviving picasso,41843
+1045,love is all there is,55058
+1046,beautiful thing,10938
+1050,looking for richard,42314
+1051,trees lounge,27845
+1053,normal life,23223
+1054,get on the bus,49471
+1055,shadow conspiracy,38153
+1056,jude,25147
+1057,everyone says i love you,9716
+1060,swingers,10218
+1061,sleepers,819
+1063,johns,56830
+1064,aladdin and the king of thieves,11238
+1066,shall we dance?,11239
+1068,crossfire,28120
+1069,"murder, my sweet",1834
+1070,macao,26282
+1071,for the moment,37218
+1077,sleeper,11561
+1078,bananas,11302
+1081,victor/victoria,12614
+1084,bonnie and clyde,475
+1086,dial m for murder,521
+1087,madame butterfly,21202
+1088,dirty dancing,88
+1089,reservoir dogs,500
+1090,platoon,792
+1091,weekend at bernie's,8491
+1092,basic instinct,402
+1095,glengarry glen ross,9504
+1096,sophie's choice,15764
+1097,e.t. the extra-terrestrial,601
+1100,days of thunder,2119
+1101,top gun,744
+1102,american strays,136311
+1103,rebel without a cause,221
+1105,children of the corn iv: the gathering,25750
+1107,loser,10642
+1110,bird of prey,146341
+1112,palookaville,37616
+1115,sleepover,9893
+1119,drunks,116844
+1121,glory daze,26626
+1124,on golden pond,11816
+1126,drop dead fred,10379
+1129,escape from new york,1103
+1131,jean de florette,4480
+1134,johnny 100 pesos,49688
+1135,private benjamin,10765
+1136,monty python and the holy grail,762
+1137,hustler white,44497
+1138,dadetown,85588
+1139,everything relative,278621
+1142,get over it,10050
+1143,three lives and only one death,55049
+1145,snowriders,79306
+1146,curtis's charm,356054
+1147,when we were kings,10548
+1151,faust,18919
+1152,he walked by night,31556
+1153,raw deal,26167
+1154,t-men,26174
+1158,here comes cookie,218713
+1159,love in bloom,217802
+1160,six of a kind,127973
+1167,dear god,38554
+1168,bad moon,49763
+1169,american dream,41326
+1170,best of the best 3: no turning back,36555
+1171,bob roberts,10608
+1172,cinema paradiso,11216
+1175,delicatessen,892
+1177,enchanted april,26561
+1178,paths of glory,975
+1180,hear my song,54405
+1184,mediterraneo,38251
+1186,"sex, lies, and videotape",1412
+1187,passion fish,41768
+1188,strictly ballroom,10409
+1190,tie me up! tie me down!,2469
+1191,madonna: truth or dare,10174
+1192,paris is burning,31225
+1193,one flew over the cuckoo's nest,510
+1194,up in smoke,11455
+1198,raiders of the lost ark,85
+1199,brazil,68
+1200,aliens,679
+1203,12 angry men,389
+1204,lawrence of arabia,947
+1207,to kill a mockingbird,595
+1208,apocalypse now,28
+1209,once upon a time in the west,335
+1213,goodfellas,769
+1214,alien,348
+1215,army of darkness,766
+1217,ran,11645
+1219,psycho,539
+1222,full metal jacket,600
+1224,henry v,10705
+1225,amadeus,279
+1227,once upon a time in america,311
+1228,raging bull,1578
+1230,annie hall,703
+1232,stalker,1398
+1235,harold and maude,343
+1236,trust,37291
+1238,local hero,11235
+1241,braindead,763
+1242,glory,9665
+1244,manhattan,696
+1245,miller's crossing,379
+1246,dead poets society,207
+1248,touch of evil,1480
+1252,chinatown,829
+1255,bad taste,9964
+1256,duck soup,3063
+1257,better off dead...,13667
+1259,stand by me,235
+1260,m,832
+1264,diva,4485
+1265,groundhog day,137
+1266,unforgiven,33
+1268,pump up the volume,8428
+1269,arsenic and old lace,212
+1270,back to the future,105
+1271,fried green tomatoes,1633
+1272,patton,11202
+1273,down by law,1554
+1274,akira,149
+1275,highlander,8009
+1276,cool hand luke,903
+1277,cyrano de bergerac,11673
+1278,young frankenstein,3034
+1279,night on earth,339
+1280,raise the red lantern,10404
+1282,fantasia,756
+1283,high noon,288
+1285,heathers,2640
+1286,somewhere in time,16633
+1287,ben-hur,665
+1288,this is spinal tap,11031
+1289,koyaanisqatsi,11314
+1290,some kind of wonderful,15143
+1291,indiana jones and the last crusade,89
+1292,being there,10322
+1293,gandhi,783
+1294,m*a*s*h,651
+1297,real genius,14370
+1301,forbidden planet,830
+1302,field of dreams,2323
+1304,butch cassidy and the sundance kid,642
+1305,"paris, texas",655
+1307,when harry met sally...,639
+1308,i shot a man in vegas,266022
+1309,parallel sons,168450
+1310,hype!,30180
+1311,santa with muscles,31388
+1312,female perversions,41801
+1313,mad dog time,66034
+1314,breathing room,348138
+1315,paris was a woman,96288
+1316,anna,89488
+1317,i'm not rappaport,61536
+1318,blue juice,18762
+1320,alien³,8077
+1323,amityville 3-d,27214
+1324,amityville: dollhouse,52263
+1325,amityville: a new generation,33519
+1326,amityville ii: the possession,16235
+1330,april fool's day,24913
+1331,audrey rose,49126
+1335,blood beach,37843
+1336,body parts,32146
+1339,bram stoker's dracula,86889
+1340,bride of frankenstein,229
+1341,burnt offerings,13549
+1342,candyman,9529
+1343,cape fear,1598
+1344,cape fear,1598
+1345,carrie,7340
+1346,cat people,6217
+1352,albino alligator,8744
+1354,breaking the waves,145
+1355,nightwatch,2212
+1356,star trek: first contact,199
+1357,shine,7863
+1358,sling blade,12498
+1359,jingle all the way,9279
+1361,paradise lost: the child murders at robin hood hills,17204
+1365,ridicule,12709
+1367,101 dalmatians,11674
+1370,die hard 2,1573
+1371,star trek: the motion picture,152
+1372,star trek vi: the undiscovered country,174
+1373,star trek v: the final frontier,172
+1375,star trek iii: the search for spock,157
+1376,star trek iv: the voyage home,168
+1377,batman returns,364
+1378,young guns,11967
+1379,young guns ii,9086
+1380,grease,621
+1381,grease 2,9037
+1382,marked for death,10173
+1383,adrenalin: fear the rush,55687
+1385,under siege,8845
+1386,terror in a texas town,46681
+1387,jaws,578
+1388,jaws 2,579
+1389,jaws 3-d,17692
+1390,my fellow americans,17795
+1391,mars attacks!,75
+1392,citizen ruth,13891
+1393,jerry maguire,9390
+1394,raising arizona,378
+1395,tin men,10896
+1396,sneakers,2322
+1397,bastard out of carolina,41240
+1398,in love and war,26949
+1399,marvin's room,9819
+1400,somebody is waiting,49799
+1401,ghosts of mississippi,31908
+1404,night falls on manhattan,46027
+1405,beavis and butt-head do america,3179
+1407,scream,4232
+1409,michael,2928
+1411,hamlet,10549
+1412,some mother's son,58102
+1414,mother,27265
+1416,evita,8818
+1419,walkabout,36040
+1420,message to love: the isle of wight festival,74239
+1422,murder at 1600,9415
+1423,hearts and minds,55146
+1424,inside,303693
+1425,fierce creatures,12145
+1427,turbulence,34314
+1428,angel baby,2892
+1430,underworld,85242
+1431,beverly hills ninja,9622
+1432,metro,8860
+1436,falling in love again,66597
+1438,dante's peak,9619
+1440,amos & andrew,31000
+1441,benny & joon,4104
+1442,prefontaine,26306
+1444,guantanamera,43775
+1445,mchale's navy,14908
+1446,kolya,784
+1447,gridlock'd,12489
+1448,fire on the mountain,168283
+1449,waiting for guffman,16448
+1454,suburbia,28059
+1455,hotel de love,58911
+1457,fools rush in,1968
+1458,touch,61563
+1459,absolute power,66
+1460,that darn cat!,20723
+1461,vegas vacation,11419
+1463,that old feeling,25796
+1464,lost highway,638
+1465,rosewood,25624
+1466,donnie brasco,9366
+1468,booty call,21915
+1471,boys life 2,50091
+1472,city of industry,18420
+1473,best men,19952
+1476,private parts,9403
+1477,love jones,27322
+1480,smilla's sense of snow,9311
+1483,crash,884
+1485,liar liar,1624
+1487,selena,16052
+1489,cats don't dance,24662
+1493,love and other catastrophes,76996
+1495,turbo: a power rangers movie,6499
+1496,anna karenina,50512
+1497,double team,9405
+1498,inventing the abbotts,12723
+1499,anaconda,9360
+1500,grosse pointe blank,9434
+1501,keys to tulsa,118991
+1502,kissed,21626
+1503,8 heads in a duffel bag,13982
+1504,hollow reed,93946
+1507,paradise road,77223
+1508,traveller,31465
+1509,all over me,12793
+1511,a chef in love,105763
+1513,romy and michele's high school reunion,9611
+1515,volcano,10357
+1516,children of the revolution,9977
+1517,austin powers: international man of mystery,816
+1518,breakdown,2163
+1519,broken english,124680
+1520,commandments,16399
+1522,ripe,124843
+1523,"truth or consequences, n.m.",31017
+1525,warriors of virtue,49478
+1526,fathers' day,12499
+1528,intimate relations,68545
+1529,nowhere,1811
+1531,losing chase,109614
+1532,sprung,60082
+1535,love! valour! compassion!,64802
+1539,twin town,15321
+1541,addicted to love,2058
+1542,brassed off,9450
+1545,ponette,38523
+1546,schizopolis,16375
+1547,shiloh,33660
+1549,rough magic,45671
+1550,trial and error,17770
+1551,buddy,15170
+1552,con air,1701
+1553,late bloomers,201445
+1556,speed 2: cruise control,1639
+1557,squeeze,49235
+1558,sudden manhattan,106129
+1561,wedding bell blues,107743
+1562,batman & robin,415
+1563,dream with the fishes,47686
+1565,head above water,11103
+1566,hercules,11970
+1568,murder and murder,407992
+1569,my best friend's wedding,8874
+1570,tetsuo ii: body hammer,17991
+1573,face/off,754
+1574,fall,37567
+1575,gabbeh,43771
+1577,mondo,124834
+1579,for ever mozart,111367
+1580,men in black,607
+1581,out to sea,18080
+1582,wild america,38225
+1584,contact,686
+1586,g.i. jane,4421
+1587,conan the barbarian,9387
+1588,george of the jungle,10603
+1589,cop land,2142
+1590,event horizon,8413
+1591,spawn,10336
+1592,air bud,20737
+1593,picture perfect,9413
+1594,in the company of men,14585
+1595,free willy 3: the rescue,18519
+1596,career girls,49462
+1597,conspiracy theory,8834
+1598,desperate measures,9458
+1599,steel,8854
+1600,she's so lovely,38295
+1601,hoodlum,22073
+1602,leave it to beaver,37244
+1603,mimic,4961
+1604,money talks,9416
+1605,excess baggage,26180
+1606,kull the conqueror,17832
+1608,air force one,9772
+1611,my own private idaho,468
+1612,"kiss me, guido",32519
+1613,star maps,108401
+1614,in & out,10806
+1617,l.a. confidential,2118
+1619,seven years in tibet,978
+1620,kiss the girls,9437
+1621,soul food,29461
+1622,kicked in the head,56651
+1623,wishmaster,10351
+1626,fire down below,14289
+1627,u turn,10155
+1633,ulee's gold,55306
+1636,stag,36434
+1639,chasing amy,2255
+1644,i know what you did last summer,3597
+1647,playing god,12628
+1649,"fast, cheap & out of control",25099
+1650,washington square,45019
+1651,telling lies in america,63437
+1652,year of the horse,62422
+1653,gattaca,782
+1654,fairytale: a true story,29911
+1655,phantoms,9827
+1656,swept from the sea,1959
+1657,wonderland,32640
+1659,hurricane streets,125052
+1660,eve's bayou,45153
+1661,switchback,10871
+1662,gang related,14398
+1663,stripes,10890
+1665,bean,1281
+1666,hugo pool,32332
+1667,mad city,9770
+1668,one night stand,12616
+1670,welcome to sarajevo,14905
+1671,deceiver,14583
+1673,boogie nights,4995
+1674,witness,9281
+1675,incognito,45928
+1676,starship troopers,563
+1677,critical care,61337
+1679,chairman of the board,31535
+1680,sliding doors,10215
+1681,mortal kombat: annihilation,9823
+1684,mrs. dalloway,38904
+1686,red corner,9407
+1688,anastasia,9444
+1690,alien: resurrection,8078
+1692,alien escape,29938
+1693,amistad,11831
+1695,artemisia,39177
+1696,bent,19601
+1701,deconstructing harry,2639
+1702,flubber,9574
+1703,for richer or poorer,10371
+1704,good will hunting,489
+1705,guy,167738
+1707,home alone 3,9714
+1708,ill gotten gains,102406
+1710,man of her dreams,170430
+1711,midnight in the garden of good and evil,8197
+1715,office killer,49728
+1717,scream 2,4233
+1718,stranger in the house,191874
+1720,time tracers,438108
+1721,titanic,597
+1722,tomorrow never dies,714
+1723,twisted,52537
+1724,full speed,12799
+1729,jackie brown,184
+1730,kundun,9746
+1731,mr. magoo,9438
+1733,afterglow,26941
+1735,great expectations,9410
+1740,men of means,216794
+1742,caught up,88863
+1744,firestorm,41417
+1746,senseless,12538
+1747,wag the dog,586
+1748,dark city,2666
+1750,star kid,54007
+1752,hard rain,11258
+1753,half baked,9490
+1754,fallen,9411
+1755,shooting fish,25719
+1758,dangerous beauty,8583
+1759,four days in september,21253
+1760,spice world,6116
+1762,deep rising,9457
+1764,tainted,281289
+1767,music from another room,39424
+1770,b. monkey,2923
+1772,blues brothers 2000,11568
+1773,tokyo fist,41577
+1776,ride,66894
+1779,sphere,10153
+1780,ayn rand: a sense of life,49645
+1782,little city,102732
+1783,palmetto,30949
+1784,as good as it gets,2898
+1785,king of new york,9558
+1788,men with guns,320011
+1791,twilight,26269
+1794,love and death on long island,47452
+1796,in god's hands,36943
+1797,everest,253412
+1798,hush,17941
+1799,suicide kings,10668
+1805,wild things,617
+1806,paulie,36568
+1810,primary colors,9440
+1811,"niagara, niagara",53092
+1812,wide awake,32911
+1815,eden,124821
+1816,two girls and a guy,32456
+1817,no looking back,93350
+1819,storefront hitchcock,62695
+1822,meet the deedles,40688
+1824,homegrown,17133
+1826,barney's great adventure,17644
+1829,chinese box,30265
+1831,lost in space,2157
+1832,heaven's burning,70581
+1833,mercury rising,8838
+1835,city of angels,795
+1839,my giant,47881
+1840,he got game,9469
+1842,illtown,98499
+1843,slappy and the stinkers,81367
+1844,live flesh,267
+1845,zero effect,16148
+1846,nil by mouth,21252
+1847,ratchet,73135
+1849,prince valiant,6264
+1850,"i love you, don't touch me!",90414
+1851,leather jacket love story,188870
+1852,love walked in,215373
+1854,kissing a fool,15513
+1855,krippendorf's tribe,31220
+1856,kurt & courtney,13907
+1858,mr. nice guy,10622
+1859,taste of cherry,30020
+1861,junk mail,34582
+1862,species ii,10216
+1863,major league: back to the minors,9771
+1864,sour grapes,24560
+1865,wild man blues,76330
+1867,tarzan and the lost city,38618
+1869,black dog,18316
+1870,"dancer, texas pop. 81",78373
+1874,still breathing,39467
+1875,clockwatchers,55561
+1876,deep impact,8656
+1877,little men,209345
+1878,woo,58680
+1880,lawn dogs,35796
+1881,quest for camelot,18937
+1882,godzilla,929
+1883,bulworth,9452
+1884,fear and loathing in las vegas,1878
+1886,i got the hook up,40505
+1887,almost heroes,14342
+1888,hope floats,9715
+1889,insomnia,26610
+1890,little boy blue,20064
+1893,beyond silence,312
+1894,six days seven nights,6068
+1895,can't hardly wait,15037
+1896,cousin bette,50043
+1897,high art,37636
+1899,passion in the desert,60951
+1901,dear jesse,416437
+1902,dream for an insomniac,32284
+1903,hav plenty,51955
+1904,henry fool,37410
+1906,mr. jealousy,53765
+1907,mulan,10674
+1908,resurrection man,136134
+1910,i went down,12655
+1911,doctor dolittle,3050
+1912,out of sight,1389
+1913,picnic at hanging rock,11020
+1914,smoke signals,20862
+1915,voyage to the beginning of the world,108548
+1917,armageddon,95
+1918,lethal weapon 4,944
+1919,madeline,35680
+1920,small soldiers,11551
+1921,pi,473
+1922,whatever,102304
+1923,there's something about mary,544
+1924,plan 9 from outer space,10513
+1925,wings,28966
+1927,all quiet on the western front,143
+1928,cimarron,42861
+1929,grand hotel,33680
+1930,cavalcade,56164
+1931,mutiny on the bounty,12311
+1934,you can't take it with you,34106
+1935,how green was my valley,43266
+1936,mrs. miniver,27367
+1937,going my way,17661
+1940,gentleman's agreement,33667
+1941,hamlet,10549
+1942,all the king's men,25430
+1944,from here to eternity,11426
+1945,on the waterfront,654
+1946,marty,15919
+1947,west side story,1725
+1948,tom jones,5769
+1950,in the heat of the night,10633
+1951,oliver!,17917
+1952,midnight cowboy,3116
+1954,rocky,1366
+1955,kramer vs. kramer,12102
+1956,ordinary people,16619
+1957,chariots of fire,9443
+1958,terms of endearment,11050
+1959,out of africa,606
+1961,rain man,380
+1962,driving miss daisy,403
+1963,take the money and run,11485
+1964,klute,466
+1965,repo man,13820
+1966,metropolitan,15389
+1967,labyrinth,13597
+1973,freddy's dead: the final nightmare,11284
+1974,friday the 13th,4488
+1975,friday the 13th part 2,9725
+1977,friday the 13th: the final chapter,9730
+1979,friday the 13th part vi: jason lives,10225
+1980,friday the 13th part vii: the new blood,10281
+1981,friday the 13th part viii: jason takes manhattan,10283
+1982,halloween,948
+1983,halloween ii,11281
+1984,halloween iii: season of the witch,10676
+1985,halloween 4: the return of michael myers,11357
+1986,halloween 5: the revenge of michael myers,11361
+1987,prom night,36599
+1988,hello mary lou: prom night ii,39929
+1989,prom night iii: the last kiss,41828
+1990,prom night iv: deliver us from evil,41769
+1991,child's play,10585
+1992,child's play 2,11186
+1993,child's play 3,11187
+1994,poltergeist,609
+1995,poltergeist ii: the other side,11133
+1996,poltergeist iii,10306
+1998,exorcist ii: the heretic,11586
+2000,lethal weapon,941
+2001,lethal weapon 2,942
+2002,lethal weapon 3,943
+2003,gremlins,927
+2004,gremlins 2: the new batch,928
+2007,polish wedding,38509
+2008,"this world, then the fireworks",60033
+2009,soylent green,12101
+2010,metropolis,19
+2011,back to the future part ii,165
+2012,back to the future part iii,196
+2014,freaky friday,16084
+2017,babes in toyland,32611
+2018,bambi,3170
+2020,dangerous liaisons,859
+2021,dune,841
+2025,lolita,9769
+2026,disturbing behavior,9424
+2028,saving private ryan,857
+2029,billy's hollywood screen kiss,17539
+2035,blackbeard's ghost,16249
+2036,blank check,13962
+2037,candleshoe,14612
+2039,cheetah,65157
+2041,condorman,19379
+2042,d2: the mighty ducks,11164
+2043,darby o'gill and the little people,18887
+2046,flight of the navigator,10122
+2050,herbie goes bananas,12129
+2051,herbie goes to monte carlo,14140
+2052,hocus pocus,10439
+2054,"honey, i shrunk the kids",9354
+2056,in search of the castaways,34774
+2060,baseketball,14013
+2061,full tilt boogie,36606
+2064,roger & me,1779
+2066,out of the past,678
+2067,doctor zhivago,907
+2070,tender mercies,42121
+2071,and the band played on,2887
+2073,fandango,20348
+2075,mephisto,11911
+2076,blue velvet,793
+2079,kidnapped,43037
+2080,lady and the tramp,10340
+2084,newsies,15300
+2085,101 dalmatians,11674
+2086,one magic christmas,13380
+2087,peter pan,10693
+2088,popeye,11335
+2091,return from witch mountain,14822
+2093,return to oz,13155
+2096,sleeping beauty,10882
+2097,something wicked this way comes,24808
+2098,son of flubber,19762
+2099,song of the south,13850
+2100,splash,2619
+2101,squanto: a warrior's tale,65158
+2103,tall tale,41841
+2104,tex,27332
+2105,tron,97
+2106,swing kids,10419
+2107,halloween: h20,11675
+2108,l.a. story,2107
+2110,dead men don't wear plaid,9442
+2112,grand canyon,13697
+2113,graveyard shift,19158
+2115,indiana jones and the temple of doom,87
+2117,nineteen eighty-four,9314
+2119,maximum overdrive,9980
+2120,needful things,10657
+2121,cujo,10489
+2122,children of the corn,10823
+2123,all dogs go to heaven,11497
+2125,ever after: a cinderella story,9454
+2126,snake eyes,8688
+2127,"first love, last rites",118452
+2128,safe men,16155
+2130,atlantic city,23954
+2132,who's afraid of virginia woolf?,396
+2133,adventures in babysitting,14367
+2134,weird science,11814
+2135,doctor dolittle,3050
+2137,charlotte's web,15171
+2138,watership down,11837
+2143,legend,11976
+2144,sixteen candles,15144
+2145,pretty in pink,11522
+2146,st. elmo's fire,11557
+2148,house,11415
+2149,house ii: the second story,37530
+2152,air bud: golden receiver,21661
+2154,how stella got her groove back,33644
+2159,henry: portrait of a serial killer,10692
+2160,rosemary's baby,805
+2163,attack of the killer tomatoes!,2182
+2164,surf nazis must die,28070
+2166,return to paradise,10278
+2167,blade,36647
+2168,dance with me,17915
+2169,dead man on campus,14557
+2170,wrongfully accused,9417
+2174,beetlejuice,4011
+2175,déjà vu,161795
+2176,rope,1580
+2177,family plot,5854
+2178,frenzy,573
+2179,topaz,2370
+2180,torn curtain,5780
+2181,marnie,506
+2185,i confess,30159
+2186,strangers on a train,845
+2187,stage fright,1978
+2188,54,3682
+2193,willow,847
+2195,dirty work,14577
+2196,knock off,37498
+2197,firelight,38621
+2198,modulations,59138
+2199,phoenix,28047
+2200,under capricorn,4175
+2202,lifeboat,13321
+2203,shadow of a doubt,21734
+2204,saboteur,31997
+2205,mr. & mrs. smith,24197
+2206,suspicion,11462
+2207,jamaica inn,31995
+2209,young and innocent,2762
+2210,sabotage,12684
+2211,secret agent,2761
+2213,waltzes from vienna,52907
+2214,number seventeen,15007
+2215,rich and strange,36049
+2217,elstree calling,75793
+2219,murder!,31930
+2221,blackmail,543
+2222,champagne,36054
+2224,downhill,52782
+2225,easy virtue,36055
+2231,rounders,10220
+2232,cube,431
+2233,digging to china,31641
+2234,let's talk about sex,223318
+2235,one man's hero,69848
+2236,simon birch,22796
+2237,without limits,22256
+2240,my bodyguard,21873
+2241,class,21500
+2242,"grandview, u.s.a.",84116
+2243,broadcast news,12626
+2245,working girl,3525
+2247,married to the mob,2321
+2248,say anything...,2028
+2249,my blue heaven,16384
+2250,men don't leave,91217
+2252,hero,10699
+2253,toys,11597
+2254,choices,218624
+2255,young doctors in love,47947
+2256,parasite,48311
+2257,no small affair,44772
+2259,blame it on rio,14347
+2260,wisdom,41090
+2261,one crazy summer,18282
+2262,about last night...,18169
+2264,we're no angels,5971
+2265,nothing but trouble,11933
+2267,mortal thoughts,30815
+2269,indecent proposal,4478
+2271,permanent midnight,22318
+2272,one true thing,53113
+2273,rush hour,2109
+2274,lilian's story,122289
+2275,six-string samurai,24746
+2277,somewhere in the city,193103
+2278,ronin,8195
+2279,urban legend,9877
+2280,clay pigeons,26618
+2281,monument ave.,21132
+2282,pecker,11855
+2284,bandit queen,14785
+2285,if....,14794
+2287,them!,11071
+2290,stardust memories,11337
+2291,edward scissorhands,162
+2292,overnight delivery,25723
+2293,shadrach,73351
+2294,antz,8916
+2297,what dreams may come,12159
+2298,strangeland,27791
+2301,history of the world: part i,10156
+2302,my cousin vinny,10377
+2303,nashville,3121
+2305,slam,37532
+2306,holy man,9713
+2307,one tough cop,134368
+2308,detroit 9000,85837
+2311,2010,4437
+2312,children of a lesser god,1890
+2314,beloved,39437
+2315,bride of chucky,11932
+2316,practical magic,6435
+2318,happiness,10683
+2319,reach the rock,63709
+2320,apt pupil,9445
+2321,pleasantville,2657
+2322,soldier,9425
+2325,orgazmo,8675
+2326,shattered image,125762
+2327,tales from the darkside: the movie,20701
+2328,vampires,9945
+2329,american history x,73
+2331,living out loud,46889
+2332,belly,12888
+2333,gods and monsters,3033
+2336,elizabeth,4518
+2337,velvet goldmine,1808
+2338,i still know what you did last summer,3600
+2339,i'll be home for christmas,17037
+2340,meet joe black,297
+2341,dancing at lughnasa,5332
+2342,hard core logo,21589
+2344,runaway train,11893
+2345,desert bloom,123056
+2349,mona lisa,10002
+2350,heart condition,41817
+2353,enemy of the state,9798
+2356,celebrity,9466
+2358,savior,2042
+2361,pink flamingos,692
+2362,glen or glenda,24018
+2366,king kong,244
+2367,king kong,244
+2368,king kong lives,31947
+2369,desperately seeking susan,8130
+2371,fletch,9749
+2372,fletch lives,14628
+2373,red sonja,9626
+2374,gung ho,13698
+2377,lifeforce,11954
+2378,police academy,9336
+2379,police academy 2: their first assignment,10157
+2380,police academy 3: back in training,12118
+2381,police academy 4: citizens on patrol,10587
+2383,police academy 6: city under siege,11895
+2384,babe: pig in the city,9447
+2385,home fries,12257
+2387,very bad things,10029
+2389,psycho,539
+2390,little voice,8545
+2392,jack frost,9745
+2393,star trek: insurrection,200
+2395,rushmore,11545
+2396,shakespeare in love,1934
+2397,mass appeal,110643
+2398,miracle on 34th street,10510
+2399,santa claus: the movie,13764
+2400,prancer,24951
+2401,pale rider,8879
+2402,rambo: first blood part ii,1369
+2403,first blood,1368
+2404,rambo iii,1370
+2406,romancing the stone,9326
+2407,cocoon,10328
+2408,cocoon: the return,11285
+2409,rocky ii,1367
+2410,rocky iii,1371
+2411,rocky iv,1374
+2412,rocky v,1375
+2413,clue,15196
+2414,young sherlock holmes,11904
+2416,back to school,15596
+2417,heartburn,13818
+2418,nothing in common,29968
+2424,you've got mail,9489
+2429,mighty joe young,9822
+2430,mighty joe young,9822
+2431,patch adams,10312
+2432,stepmom,9441
+2434,down in the delta,125582
+2435,hurlyburly,24525
+2436,tea with mussolini,10368
+2437,wilde,11365
+2438,outside ozona,140897
+2439,affliction,31662
+2440,another day in paradise,36136
+2442,hilary and jackie,46992
+2443,playing by heart,825
+2444,24 7: twenty four seven,22913
+2445,at first sight,15556
+2446,in dreams,28902
+2447,varsity blues,14709
+2448,virus,9423
+2450,howard the duck,10658
+2457,running scared,15698
+2458,armed and dangerous,2620
+2461,leatherface: texas chainsaw massacre iii,25018
+2463,ruthless people,12151
+2464,trick or treat,25438
+2465,deadly friend,33278
+2466,belizaire the cajun,274253
+2468,jumpin' jack flash,10945
+2469,peggy sue got married,10013
+2470,crocodile dundee,9671
+2471,crocodile dundee ii,9396
+2472,tough guys,11038
+2473,soul man,12278
+2475,52 pick-up,18588
+2476,heartbreak ridge,10015
+2477,firewalker,12715
+2479,gloria,45712
+2481,my name is joe,8129
+2482,still crazy,1618
+2485,she's all that,10314
+2487,"blood, guts, bullets and octane",47139
+2488,peeping tom,11167
+2490,payback,2112
+2491,simply irresistible,16172
+2492,20 dates,111794
+2496,blast from the past,11622
+2497,message in a bottle,10207
+2498,my favorite martian,9849
+2500,jawbreaker,18892
+2501,october sky,13466
+2502,office space,1542
+2504,200 cigarettes,15256
+2505,8mm,8224
+2507,breakfast of champions,12479
+2509,eight days a week,15209
+2510,just the ticket,26425
+2513,pet sematary,8913
+2514,pet sematary ii,10906
+2515,children of the corn ii: the final sacrifice,25748
+2517,christine,8769
+2518,night shift,14742
+2519,house on haunted hill,15856
+2520,airport,10671
+2521,airport 1975,27932
+2522,airport '77,7227
+2523,rollercoaster,10670
+2525,alligator,33518
+2526,meteor,40160
+2527,westworld,2362
+2528,logan's run,10803
+2529,planet of the apes,871
+2530,beneath the planet of the apes,1685
+2531,battle for the planet of the apes,1705
+2532,conquest of the planet of the apes,1688
+2533,escape from the planet of the apes,1687
+2534,avalanche,166680
+2535,earthquake,11123
+2537,beyond the poseidon adventure,31638
+2539,analyze this,9535
+2541,cruel intentions,796
+2543,six ways to sunday,47501
+2545,relax... it's just sex,84586
+2547,harvest,107946
+2549,wing commander,10350
+2551,dead ringers,9540
+2552,my boyfriend's back,31503
+2553,village of the damned,12122
+2554,children of the damned,30202
+2555,baby geniuses,22345
+2556,telling you,53685
+2558,forces of nature,1641
+2560,ravenous,10212
+2561,true crime,37144
+2562,bandits,11526
+2566,doug's 1st movie,16508
+2567,edtv,11374
+2569,among giants,125123
+2572,10 things i hate about you,4951
+2573,tango,65749
+2576,"love, etc.",186705
+2577,metroland,30950
+2579,following,11660
+2580,go,9430
+2581,never been kissed,11355
+2583,cookie's fortune,9465
+2584,foolish,27455
+2587,life,6522
+2588,clubland,18425
+2589,friends & lovers,114719
+2590,hideous kinky,10209
+2597,lost & found,39964
+2598,pushing tin,12596
+2599,election,9451
+2600,existenz,1946
+2603,nô,139445
+2604,let it come down: the life of paul bowles,74140
+2605,entrapment,1844
+2606,idle hands,6552
+2607,get real,24584
+2608,heaven,213985
+2610,three seasons,4154
+2612,mildred pierce,3309
+2613,night of the comet,18462
+2615,my science project,18252
+2616,dick tracy,8592
+2619,mascara,140519
+2620,this is my father,25232
+2623,trippin',53862
+2624,after life,17962
+2626,edge of seventeen,4927
+2627,endurance,122190
+2628,star wars: episode i - the phantom menace,1893
+2631,frogs for snakes,95627
+2639,mommie dearest,15660
+2640,superman,1924
+2641,superman ii,8536
+2642,superman iii,9531
+2643,superman iv: the quest for peace,11411
+2644,dracula,6114
+2645,dracula,6114
+2646,house of dracula,30793
+2647,house of frankenstein,3103
+2648,frankenstein,3035
+2649,son of frankenstein,3077
+2651,frankenstein meets the wolf man,3076
+2653,son of dracula,32023
+2656,tarantula,9077
+2659,it came from hollywood,30168
+2661,it came from outer space,19483
+2663,it came from beneath the sea,29959
+2664,invasion of the body snatchers,11549
+2665,earth vs. the flying saucers,18158
+2666,it conquered the world,27625
+2668,swamp thing,17918
+2669,pork chop hill,37305
+2670,"run silent, run deep",18784
+2671,notting hill,509
+2675,twice upon a yesterday,55912
+2676,instinct,12117
+2677,buena vista social club,11779
+2678,desert blue,41730
+2680,floating,100568
+2681,free enterprise,13533
+2682,limbo,62676
+2683,austin powers: the spy who shagged me,817
+2687,tarzan,37135
+2693,trekkies,15800
+2694,big daddy,9032
+2697,my son the fanatic,55955
+2698,zone 39,67067
+2699,arachnophobia,6488
+2701,wild wild west,8487
+2702,summer of sam,10279
+2703,broken vessels,125263
+2706,american pie,2105
+2707,arlington road,1073
+2709,muppets from space,10208
+2711,my life so far,48958
+2712,eyes wide shut,345
+2713,lake placid,9825
+2716,ghostbusters,620
+2717,ghostbusters ii,2978
+2718,drop dead gorgeous,10490
+2720,inspector gadget,332
+2721,trick,1812
+2722,deep blue sea,8914
+2723,mystery men,9824
+2724,runaway bride,4806
+2725,twin falls idaho,33430
+2727,killer's kiss,10056
+2728,spartacus,967
+2729,lolita,9769
+2730,barry lyndon,3175
+2733,vibes,21185
+2736,brighton beach memoirs,32060
+2737,assassination,48686
+2741,no mercy,26789
+2743,native son,108312
+2746,little shop of horrors,10776
+2750,radio days,30890
+2751,from the hip,24081
+2752,outrageous fortune,20242
+2754,deadtime stories,66194
+2755,light of day,2115
+2756,wanted: dead or alive,23599
+2757,frances,3526
+2758,plenty,41166
+2759,dick,16406
+2767,illuminata,91076
+2768,stiff upper lips,89861
+2770,bowfinger,11353
+2771,brokedown palace,17707
+2772,detroit rock city,9781
+2774,better than chocolate,18212
+2775,head on,13817
+2777,cobra,38715
+2778,never talk to strangers,48781
+2779,heaven can wait,12185
+2785,tales of terror,29074
+2786,haunted honeymoon,24103
+2787,cat's eye,10552
+2788,and now for something completely different,9267
+2789,damien: omen ii,10766
+2791,airplane!,813
+2792,airplane ii: the sequel,2665
+2795,vacation,296099
+2796,funny farm,14170
+2797,big,2280
+2798,problem child,11077
+2799,problem child 2,28597
+2800,little nemo: adventures in slumberland,22611
+2802,tequila sunrise,10396
+2805,mickey blue eyes,10154
+2806,teaching mrs. tingle,10342
+2807,universal soldier: the return,10366
+2808,universal soldier,9349
+2809,love stinks,15122
+2810,perfect blue,10494
+2811,with friends like these...,126152
+2812,in too deep,22314
+2815,iron eagle,11037
+2816,iron eagle ii,11955
+2818,iron eagle iv,28737
+2819,three days of the condor,11963
+2820,hamlet,10549
+2821,male and female,53761
+2822,medicine man,9096
+2824,on the ropes,113273
+2828,dudley do-right,17709
+2833,lucie aubrac,52366
+2835,chill factor,2162
+2836,outside providence,14578
+2838,i woke up early the day i died,4338
+2840,stigmata,10307
+2841,stir of echoes,11601
+2842,best laid plans,18621
+2847,only angels have wings,43832
+2848,othello,16420
+2849,queens logic,49792
+2850,public access,77064
+2851,saturn 3,19761
+2855,nightmares,42114
+2856,i saw what you did,28295
+2857,yellow submarine,12105
+2858,american beauty,14
+2859,stop making sense,24128
+2860,blue streak,11001
+2861,for love of the game,10390
+2862,caligula,9453
+2864,splendor,35122
+2865,sugar town,142132
+2867,fright night,11797
+2870,barefoot in the park,17887
+2871,deliverance,10669
+2872,excalibur,11527
+2873,lulu on the bridge,42848
+2875,sommersby,1049
+2876,thumbelina,28032
+2877,tommy,11326
+2878,hell night,28377
+2881,double jeopardy,10398
+2882,jakob the liar,2290
+2883,mumford,24071
+2884,dog park,62994
+2885,guinevere,60994
+2887,simon sez,32305
+2888,drive me crazy,14429
+2889,"mystery, alaska",15198
+2890,three kings,6415
+2891,"happy, texas",24066
+2892,new rose hotel,21430
+2893,plunkett & macleane,10381
+2894,romance,77412
+2895,napoleon and samantha,42486
+2896,alvarez kelly,60285
+2899,gulliver's travels,42518
+2900,monkey shines,29787
+2901,phantasm,9638
+2902,psycho ii,10576
+2903,psycho iii,12662
+2904,rain,61369
+2905,sanjuro,11712
+2906,random hearts,12618
+2907,superstar,13824
+2908,boys don't cry,226
+2914,molly,44857
+2915,risky business,9346
+2916,total recall,861
+2917,body heat,14412
+2918,ferris bueller's day off,9377
+2921,high plains drifter,11901
+2922,hang 'em high,4929
+2926,hairspray,11054
+2927,brief encounter,851
+2929,reds,18254
+2930,return with honor,56235
+2932,days of heaven,16642
+2936,sullivan's travels,16305
+2939,niagara,19997
+2940,gilda,3767
+2941,south pacific,17352
+2942,flashdance,535
+2943,indochine,2731
+2945,mike's murder,31043
+2946,help!,14831
+2947,goldfinger,658
+2948,from russia with love,657
+2949,dr. no,646
+2953,home alone 2: lost in new york,772
+2954,penitentiary,65448
+2955,penitentiary ii,65452
+2956,someone to watch over me,31650
+2957,sparrows,73575
+2958,naturally native,302579
+2959,fight club,550
+2960,beefcake,97537
+2962,fever pitch,1610
+2963,joe the king,53151
+2964,julien donkey-boy,42881
+2968,time bandits,36819
+2970,fitzcarraldo,9343
+2971,all that jazz,16858
+2973,crimes and misdemeanors,11562
+2974,bats,10496
+2976,bringing out the dead,8649
+2977,crazy in alabama,31306
+2978,three to tango,10563
+2979,body shots,14484
+2980,men cry bullets,214735
+2984,on any sunday,29251
+2985,robocop,5548
+2986,robocop 2,5549
+2988,melvin and howard,38772
+2989,for your eyes only,699
+2990,licence to kill,709
+2991,live and let die,253
+2992,rawhead rex,13511
+2993,thunderball,660
+2996,music of the heart,26149
+2997,being john malkovich,492
+2998,dreaming of joseph lees,108346
+2999,man of the century,98480
+3007,american movie,14242
+3008,last night,16129
+3009,portraits chinois,104103
+3010,rosetta,11489
+3011,"they shoot horses, don't they?",28145
+3012,battling butler,51371
+3013,bride of re-animator,18111
+3014,bustin' loose,31361
+3015,coma,11223
+3016,creepshow,16281
+3017,creepshow 2,16288
+3018,re-animator,1694
+3019,drugstore cowboy,476
+3020,falling down,37094
+3023,my best girl,73969
+3024,piranha,24831
+3026,slaughterhouse,85160
+3029,nighthawks,21610
+3030,yojimbo,11878
+3031,repossessed,11510
+3033,spaceballs,957
+3034,robin hood,11886
+3035,mister roberts,37853
+3036,quest for fire,62204
+3037,little big man,11040
+3039,trading places,1621
+3040,meatballs,14035
+3041,meatballs part ii,40771
+3043,meatballs 4,40773
+3044,dead again,11498
+3045,peter's friends,11790
+3048,under the rainbow,47941
+3049,how i won the war,29048
+3050,light it up,19052
+3051,anywhere but here,21349
+3052,dogma,1832
+3055,felicia's journey,47692
+3056,oxygen,18561
+3057,where's marlowe?,144953
+3059,british intelligence,51787
+3061,holiday inn,13485
+3063,poison ivy,9264
+3065,ten benny,124853
+3066,tora! tora! tora!,11165
+3067,women on the verge of a nervous breakdown,4203
+3071,stand and deliver,29154
+3072,moonstruck,2039
+3074,jeremiah johnson,11943
+3075,repulsion,11481
+3076,irma la douce,2690
+3077,42 up,20565
+3078,liberty heights,27141
+3079,mansfield park,10399
+3081,sleepy hollow,2668
+3084,home page,159569
+3087,scrooged,9647
+3088,harvey,11787
+3090,matewan,24276
+3091,kagemusha,11953
+3093,mccabe & mrs. miller,29005
+3094,maurice,26371
+3096,my man godfrey,13562
+3099,shampoo,31121
+3101,fatal attraction,10998
+3102,jagged edge,12235
+3103,stanley & iris,36094
+3104,midnight run,9013
+3105,awakenings,11005
+3106,come see the paradise,59820
+3107,backdraft,2924
+3110,country,42087
+3111,places in the heart,13681
+3113,end of days,9946
+3114,toy story 2,863
+3115,flawless,31582
+3116,miss julie,125520
+3117,ride with the devil,22267
+3118,tumbleweeds,55123
+3122,santa fe trail,1718
+3124,agnes browne,15506
+3129,sweet and lowdown,9684
+3132,daddy long legs,33218
+3133,go west,33015
+3138,stealing home,32331
+3139,tarzan the fearless,76083
+3142,u2: rattle and hum,18161
+3143,hell in the pacific,31681
+3146,deuce bigalow: male gigolo,10402
+3149,diamonds,35118
+3154,blood on the sun,75888
+3155,anna and the king,1439
+3156,bicentennial man,2277
+3157,stuart little,10137
+3159,fantasia 2000,49948
+3160,magnolia,334
+3161,onegin,30237
+3162,simpatico,50116
+3163,topsy-turvy,46435
+3165,boiling point,22213
+3166,brenda starr,47070
+3167,carnal knowledge,36492
+3168,easy rider,624
+3170,hi-yo silver,415072
+3171,room at the top,43103
+3173,any given sunday,9563
+3174,man on the moon,1850
+3175,galaxy quest,926
+3177,next friday,10471
+3179,angela's ashes,10397
+3180,play it to the bone,20761
+3181,titus,12524
+3184,montana,30814
+3185,snow falling on cedars,10219
+3186,"girl, interrupted",3558
+3187,trans,104878
+3189,my dog skip,17908
+3190,supernova,10384
+3193,creature,73963
+3195,tess of the storm country,71067
+3196,stalag 17,632
+3198,papillon,5924
+3199,pal joey,33734
+3201,five easy pieces,26617
+3203,dead calm,10493
+3206,against all odds,22160
+3210,fast times at ridgemont high,13342
+3212,born to win,21256
+3213,batman: mask of the phantasm,14919
+3214,american flyers,14040
+3215,voyage of the damned,75641
+3218,poison,47620
+3219,pacific heights,2990
+3220,night tide,38775
+3222,carmen,21193
+3225,down to you,10472
+3229,another man's poison,53714
+3232,seven chances,32600
+3233,smashing time,110479
+3234,train ride to hollywood,299121
+3235,where the buffalo roam,13005
+3236,zachariah,65134
+3238,eye of the beholder,18681
+3242,santitos,46835
+3243,encino man,10406
+3246,malcolm x,1883
+3247,sister act,2005
+3248,sister act 2: back in the habit,6279
+3250,alive,7305
+3251,agnes of god,24735
+3252,scent of a woman,9475
+3253,wayne's world,8872
+3254,wayne's world 2,8873
+3256,patriot games,9869
+3258,death becomes her,9374
+3259,far and away,11259
+3260,howards end,8293
+3261,singles,11068
+3262,twin peaks: fire walk with me,1923
+3263,white men can't jump,10158
+3264,buffy the vampire slayer,10206
+3268,stop! or my mom will shoot,9876
+3269,forever young,10326
+3271,of mice and men,9609
+3272,bad lieutenant,12143
+3273,scream 3,4234
+3274,single white female,9605
+3276,gun shy,29076
+3279,knockout,121940
+3282,different for girls,106837
+3283,minnie and moskowitz,24349
+3284,they might be giants,27841
+3286,snow day,15489
+3288,cotton mary,68546
+3290,soft toilet seats,279444
+3291,trois,77908
+3293,conceiving ada,96484
+3294,eaten alive,30062
+3295,raining stones,62463
+3297,with byrd at the south pole,101383
+3298,boiler room,14181
+3299,hanging up,10385
+3300,pitch black,2787
+3302,beautiful people,61416
+3303,black tar heroin: the dark end of the street,79515
+3304,blue collar,14839
+3305,bluebeard,42186
+3307,city lights,901
+3313,class reunion,33374
+3315,happy go lovely,127602
+3316,reindeer games,2155
+3317,wonder boys,11004
+3318,deterrence,25212
+3319,judy berlin,36048
+3322,3 strikes,47816
+3323,chain of fools,20682
+3324,drowning mona,25166
+3326,what planet are you from?,10416
+3327,beyond the mat,14271
+3328,ghost dog: the way of the samurai,4816
+3330,splendor in the grass,28569
+3331,my tutor,2193
+3334,key largo,11016
+3335,jail bait,23020
+3336,it happened here,54195
+3338,for all mankind,20423
+3339,cross of iron,10839
+3340,bride of the monster,36489
+3341,born yesterday,24481
+3342,birdy,11296
+3343,and god created woman,61651
+3344,blood feast,28172
+3345,"charlie, the lonesome cougar",57855
+3346,color me blood red,28180
+3347,never cry wolf,14280
+3351,two thousand maniacs!,28177
+3352,brown's requiem,64166
+3354,mission to mars,2067
+3358,defending your life,12186
+3359,breaking away,20283
+3360,hoosiers,5693
+3361,bull durham,287
+3362,dog day afternoon,968
+3363,american graffiti,838
+3366,where eagles dare,11046
+3370,betrayed,31618
+3371,bound for glory,42232
+3373,buck and the preacher,26928
+3374,daughters of the dust,68427
+3375,destination moon,25392
+3379,on the beach,35412
+3380,railroaded!,43463
+3381,slaves to the underground,59939
+3382,song of freedom,159727
+3385,volunteers,19259
+3386,jfk,820
+3387,who's harry crumb?,11718
+3388,harry and the hendersons,8989
+3389,let's get harry,32031
+3390,shanghai surprise,58048
+3392,she-devil,11157
+3393,date with an angel,28370
+3394,blind date,918
+3395,nadine,61178
+3399,sesame street presents follow that bird,36536
+3400,we're back! a dinosaur's story,18890
+3402,turtle diary,123047
+3403,raise the titanic,24575
+3404,titanic,597
+3408,erin brockovich,462
+3409,final destination,9532
+3410,soft fruit,117259
+3411,babymother,78231
+3413,impact,25503
+3414,love is a many-splendored thing,53879
+3418,thelma & louise,1541
+3419,something for everyone,150043
+3420,...and justice for all,17443
+3421,animal house,8469
+3422,she's gotta have it,27995
+3423,school daze,36739
+3424,do the right thing,925
+3425,mo' better blues,41823
+3426,jungle fever,1713
+3427,coogan's bluff,26170
+3430,death wish,13939
+3432,death wish 3,24873
+3433,death wish 4: the crackdown,26263
+3435,double indemnity,996
+3436,dying young,9079
+3437,cool as ice,1496
+3438,teenage mutant ninja turtles,1498
+3439,teenage mutant ninja turtles ii: the secret of the ooze,1497
+3440,teenage mutant ninja turtles iii,1499
+3441,red dawn,1880
+3442,band of the hand,33762
+3443,born american,103960
+3444,bloodsport,11690
+3445,eyes of laura mars,29143
+3446,funny bones,35292
+3448,"good morning, vietnam",801
+3450,grumpy old men,11520
+3451,guess who's coming to dinner,1879
+3452,romeo must die,2085
+3453,here on earth,13539
+3454,whatever it takes,16222
+3455,buddy boy,109479
+3457,waking the dead,37722
+3459,gothic,33516
+3460,hillbillys in a haunted house,99008
+3461,lord of the flies,9960
+3462,modern times,3082
+3463,last resort,31875
+3464,solar crisis,2102
+3465,that's life!,52961
+3466,heart and souls,12187
+3467,hud,24748
+3469,inherit the wind,1908
+3470,dersu uzala,9764
+3471,close encounters of the third kind,840
+3473,jonah who will be 25 in the year 2000,42237
+3474,retroactive,26689
+3476,jacob's ladder,2291
+3477,empire records,13531
+3479,ladyhawke,526
+3480,lucas,13346
+3481,high fidelity,243
+3482,price of glory,53263
+3486,devil girl from mars,24212
+3489,hook,879
+3490,horror express,32613
+3491,my chauffeur,39406
+3494,true grit,17529
+3495,roadside prophets,40841
+3496,madame sousatzka,118098
+3497,max dugan returns,1793
+3498,midnight express,11327
+3499,misery,1700
+3500,mr. saturday night,54087
+3501,murphy's romance,34322
+3502,my life,41659
+3504,network,10774
+3505,no way out,10083
+3506,north dallas forty,29786
+3509,black and white,38809
+3510,frequency,10559
+3511,ready to rumble,20697
+3512,return to me,2621
+3513,rules of engagement,10479
+3514,joe gould's secret,125709
+3515,me myself i,49721
+3516,"bell, book and candle",2006
+3519,force 10 from navarone,17339
+3520,how to stuff a wild bikini,26879
+3521,mystery train,11305
+3523,taffin,28975
+3524,arthur,13665
+3525,bachelor party,12309
+3526,parenthood,1552
+3527,predator,106
+3531,all the vermeers in new york,123757
+3534,28 days,10468
+3535,american psycho,1359
+3536,keeping the faith,4967
+3537,where the money is,31776
+3538,east is east,10557
+3540,passion of mind,19214
+3541,third world cop,46686
+3542,coming apart,71402
+3543,diner,13776
+3544,shakes the clown,26291
+3545,cabaret,10784
+3546,what ever happened to baby jane?,10242
+3547,prick up your ears,27857
+3548,auntie mame,16347
+3549,guys and dolls,4825
+3551,marathon man,10518
+3552,caddyshack,11977
+3553,gossip,18041
+3555,u-571,3536
+3559,limelight,28971
+3561,stacy's knights,310431
+3562,committed,40562
+3565,where the heart is,10564
+3567,bossa nova,19600
+3572,carnosaur,39283
+3573,carnosaur 2,65460
+3574,carnosaur 3: primal species,55667
+3575,defying gravity,31978
+3578,gladiator,98
+3579,i dreamed of africa,21311
+3580,up at the villa,47724
+3581,human traffic,11129
+3584,breathless,1058
+3587,inferno,16395
+3591,mr. mom,13105
+3593,battlefield earth,5491
+3594,center stage,10560
+3595,held up,19489
+3596,screwed,19419
+3597,whipped,23531
+3598,hamlet,10549
+3599,anchors aweigh,17889
+3600,blue hawaii,18228
+3604,gypsy,39391
+3605,king creole,18644
+3606,on the town,31516
+3607,one little indian,45827
+3608,pee-wee's big adventure,5683
+3609,regret to inform,113279
+3610,roustabout,2094
+3613,things change,52770
+3614,honeymoon in vegas,12518
+3615,dinosaur,10567
+3616,loser,10642
+3617,road trip,9285
+3618,small time crooks,10569
+3621,possession,21484
+3624,shanghai noon,8584
+3625,better living through circuitry,47295
+3627,carnival of souls,16093
+3628,flying tigers,29372
+3631,it's in the water,21060
+3632,monsieur verdoux,30588
+3633,on her majesty's secret service,668
+3634,seven days in may,23518
+3638,moonraker,698
+3642,in old california,40685
+3644,dark command,40639
+3646,big momma's house,9600
+3647,running free,120077
+3649,american gigolo,2768
+3656,lured,30308
+3657,pandora and the flying dutchman,38688
+3658,quatermass and the pit,26912
+3659,quatermass ii,26278
+3660,puppet master,26953
+3661,puppet master ii,26954
+3663,puppet master 4,26957
+3664,puppet master 5: the final chapter,26958
+3665,curse of the puppet master,26959
+3667,rent-a-cop,80287
+3668,romeo and juliet,6003
+3669,stay tuned,23939
+3671,blazing saddles,11072
+3672,benji,23069
+3673,benji the hunted,21299
+3674,for the love of benji,38802
+3675,white christmas,13368
+3676,eraserhead,985
+3677,baraka,14002
+3681,for a few dollars more,938
+3682,magnum force,10648
+3683,blood simple,11368
+3685,prizzi's honor,2075
+3686,flatliners,1551
+3688,porky's,10246
+3689,porky's ii: the next day,19698
+3691,private school,18835
+3692,class of nuke 'em high,26554
+3696,night of the creeps,15762
+3697,predator 2,169
+3699,starman,9663
+3701,alien nation,10128
+3702,mad max,9659
+3704,mad max beyond thunderdome,9355
+3705,bird on a wire,1727
+3706,angel heart,635
+3707,nine 1/2 weeks,10068
+3708,firestarter,11495
+3709,sleepwalkers,11428
+3710,action jackson,10117
+3711,sarafina!,35936
+3712,soapdish,25562
+3714,clara's heart,73079
+3715,burglar,38921
+3716,fatal beauty,35463
+3717,gone in 60 seconds,16246
+3718,american pimp,24587
+3719,love's labour's lost,51333
+3720,sunshine,17771
+3721,trixie,31610
+3723,hamlet,10549
+3724,coming home,31657
+3725,american pop,29204
+3726,assault on precinct 13,17814
+3727,near dark,11879
+3728,one false move,21128
+3729,shaft,482
+3731,cutter's way,31593
+3734,prince of the city,32047
+3735,serpico,9040
+3737,lonely are the brave,43002
+3739,trouble in paradise,195
+3740,big trouble in little china,6978
+3741,badlands,3133
+3743,boys and girls,10571
+3744,shaft,482
+3745,titan a.e.,7450
+3747,jesus' son,25636
+3750,boricua's bond,207731
+3751,chicken run,7443
+3757,asylum,25993
+3758,communion,28774
+3763,f/x,9873
+3766,missing in action,15379
+3767,missing in action 2: the beginning,12764
+3768,braddock: missing in action iii,27352
+3769,thunderbolt and lightfoot,8348
+3770,dreamscape,24099
+3773,house party,16094
+3774,house party 2,16096
+3775,make mine music,20343
+3776,melody time,13757
+3777,nekromantik,11822
+3778,on our merry way,90980
+3779,project moon base,26270
+3780,rocketship x-m,37744
+3781,shaft in africa,494
+3782,shaft's big score!,493
+3783,croupier,12706
+3785,scary movie,4247
+3786,but i'm a cheerleader,20770
+3790,groove,23655
+3791,footloose,1788
+3792,duel in the sun,32275
+3793,x-men,36657
+3794,chuck & buck,44490
+3798,what lies beneath,2655
+3801,anatomy of a murder,93
+3802,freejack,9278
+3803,greaser's palace,90715
+3804,h.o.t.s.,59181
+3805,knightriders,22167
+3806,mackenna's gold,18118
+3807,sinbad and the eye of the tiger,11940
+3809,what about bob?,10276
+3810,white sands,19380
+3811,breaker morant,13783
+3813,interiors,15867
+3814,love and death,11686
+3818,pot o' gold,18702
+3819,tampopo,11830
+3820,thomas and the magic railroad,16110
+3821,nutty professor ii: the klumps,12107
+3823,wonderland,32640
+3824,autumn in new york,10641
+3825,coyote ugly,6282
+3826,hollow man,9383
+3827,space cowboys,5551
+3828,better living,277726
+3829,mad about mambo,43079
+3830,psycho beach party,27723
+3831,saving grace,2360
+3834,bronco billy,21866
+3836,kelly's heroes,11589
+3837,phantasm ii,15158
+3838,phantasm iii: lord of the dead,16139
+3839,phantasm iv: oblivion,16146
+3840,pumpkinhead,26515
+3841,air america,11856
+3843,sleepaway camp,13567
+3844,steel magnolias,10860
+3846,easy money,18391
+3848,silent fall,39473
+3857,bless the child,10391
+3858,cecil b. demented,14195
+3862,about adam,18168
+3866,sunset strip,117262
+3870,our town,23283
+3871,shane,3110
+3872,"suddenly, last summer",14698
+3873,cat ballou,11694
+3877,supergirl,9651
+3878,x: the unknown,26865
+3882,bring it on,1588
+3883,catfish in black bean sauce,287821
+3885,love & sex,25128
+3887,went to coney island on a mission from god... be back by five,30910
+3888,skipped parts,41282
+3889,highlander: endgame,12211
+3891,turn it up,9995
+3893,nurse betty,10480
+3897,almost famous,786
+3898,bait,14805
+3899,circus,51179
+3901,duets,18074
+3903,urbania,77332
+3906,under suspicion,10562
+3908,urban legends: final cut,12212
+3909,woman on top,14629
+3910,dancer in the dark,16
+3911,best in show,13785
+3912,beautiful,34299
+3915,girlfight,19348
+3916,remember the titans,10637
+3917,hellraiser,9003
+3918,hellbound: hellraiser ii,9064
+3919,hellraiser iii: hell on earth,11569
+3921,beach party,26484
+3922,bikini beach,39113
+3923,return of the fly,38126
+3924,pajama party,53617
+3925,stranger than paradise,469
+3926,voyage to the bottom of the sea,2160
+3927,fantastic voyage,2161
+3928,abbott and costello meet frankenstein,3073
+3934,kronos,43230
+3935,kronos,43230
+3937,runaway,9507
+3941,sorority house massacre,40760
+3942,sorority house massacre ii,40446
+3943,bamboozled,24664
+3944,bootmen,21370
+3945,digimon: the movie,20455
+3946,get carter,10461
+3947,get carter,10461
+3948,meet the parents,1597
+3949,requiem for a dream,641
+3950,tigerland,10687
+3951,two family house,63956
